@@ -49,8 +49,6 @@ function spawnPlatform(){
   platforms.addImage(platform_image);
 
   platforms.scale = 0.15;
-
-  platforms.x = random(0,500);
   }
 }
 
